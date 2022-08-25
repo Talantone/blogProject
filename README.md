@@ -6,6 +6,7 @@ This project is designed to display, edit and create blog posts
 There are two ways to launch an application:
 Makefile and docker.
 To use the Makefile, you must have a Unix system. If you don't have required libraries, you must write 'make requirements' in the project folder. After that write 'make' in the project folder.
+To use docker for launch just write 'docker-compose up' in the project folder.
 The project runs in debug mode for the convenience of checking requests.
 
 # requests and responses
